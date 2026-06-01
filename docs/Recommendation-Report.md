@@ -3,6 +3,7 @@
 **Prepared for:** Executive Leadership Team  
 **Subject:** Mobile Device Management (MDM) Strategy & Vendor Selection  
 **Status:** Strategic Recommendation  
+Prepared BY : Cephas Masimba
 
 ---
 
